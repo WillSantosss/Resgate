@@ -6,7 +6,7 @@ Nesse projeto você terá ação. Fique ainda mais imersivo com sons, animaçõe
 
 ### Linguagens utilizadas
 
-* HTML5
+* HTML
 * CSS
 * JavaScript
 
