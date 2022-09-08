@@ -15,4 +15,4 @@ Nesse projeto você terá ação. Fique ainda mais imersivo com sons, animaçõe
 * Bootstrap
 
 
-![Resgate](https://github.com/WillSantosss/Imgs/blob/master/resgate.jpg)
+![Resgateação](https://github.com/WillSantosss/Imgs/blob/master/resgate.jpg)
